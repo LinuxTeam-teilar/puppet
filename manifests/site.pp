@@ -22,12 +22,6 @@ node vectivus {
 node voren {
 }
 
-node vectivus {
-}
-
-node voren {
-}
-
 node zash {
 }
 
