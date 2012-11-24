@@ -1,0 +1,3 @@
+[submodule "modules/puppet-portage"]
+	path = modules/puppet-portage
+	url = git://github.com/gentoo/puppet-portage
