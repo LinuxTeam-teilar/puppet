@@ -1,19 +1,19 @@
-node vader {
-}
-
-node sidious {
-}
-
-node nihilus {
-}
-
 node angral {
 }
 
 node karnage {
 }
 
+node nihilus {
+}
+
+node sidious {
+}
+
 node tyranus {
+}
+
+node vader {
 }
 
 node vectivus {
