@@ -1,3 +1,6 @@
 [submodule "modules/portage"]
 	path = modules/portage
 	url = git://github.com/gentoo/puppet-portage
+[submodule "modules/concat"]
+	path = modules/concat
+	url = git://github.com/ripienaar/puppet-concat
