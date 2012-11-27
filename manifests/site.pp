@@ -17,9 +17,11 @@ node vader {
 }
 
 node vectivus {
+  include base::hosts
 }
 
 node voren {
+  include base::hosts
 }
 
 node zash {
